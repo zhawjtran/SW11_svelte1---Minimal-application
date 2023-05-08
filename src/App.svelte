@@ -1,5 +1,5 @@
 <script>
-	let message = "Hello World world world this is a test for verson 1.1";
+	let message = "Hello World world world this is a test for verson 1.2";
 	let message2 = "new hello world";
 	let message3 = "version 1.03";
 </script>

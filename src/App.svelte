@@ -1,9 +1,11 @@
 <script>
 	let message = "Hello World world world 123";
+	let message2 = "new hello world";
 </script>
 
 <div>
 	<h1>{message}</h1>
+	<h2>(message2)</h2>
 </div>
 
 <style>
